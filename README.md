@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @AdePhillipz
+- 👋 Hi, I’m Adeoye Phillip
 - 👀 I’m interested in Quality Assurance Engineering
 - 🌱 I’m currently learning different testing tools
 - 💞️ I’m looking to collaborate on Projects that will widen my knowledge in software testing
